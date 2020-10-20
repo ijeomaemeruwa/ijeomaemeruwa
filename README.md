@@ -10,8 +10,8 @@ When I'm not geeking away on the web, you would find me thoroughly enjoying myse
 
 ### Find me on the web: 
 
-[Twitter]("https://twitter.com/ijeomaemeruwa")
+[Twitter](https://twitter.com/ijeomaemeruwa)
 
-[LinkedIn]("https://linkedin/in/ijeoma-emeruwa)
+[LinkedIn](https://linkedin/in/ijeoma-emeruwa)
 
-[Hashnode]("https://helloijeoma.hashnode.dev/")
+[Hashnode](https://helloijeoma.hashnode.dev/)
