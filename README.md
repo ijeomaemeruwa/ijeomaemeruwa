@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**ijeomaemeruwa/ijeomaemeruwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="ijeomaemeruwa.gif" alt="ijeoma emeruwa gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a self taught software developer who enjoys creating an accessible and optimized experience on the web. I love design and an aesthetically pleasing user interface. Currently getting involved in open source, technical writing and a few back end technologies (Node, Express and SQL).
+
+---
+
+When I'm not geeking away on the web, you would find me thoroughly enjoying myself in a restaurant with great food :herb: 
+
+---
+
+### Find me on the web :cyclone: 
+
+* [Twitter]("https://twitter.com/ijeomaemeruwa")
+
+* [LinkedIn]("https://linkedin/in/ijeoma-emeruwa)
+
+* [Hashnode]("https://helloijeoma.hashnode.dev/")
