@@ -1,4 +1,4 @@
-
+# Hey, it's Ijae :blue_heart:
 
 <img src="ijeomaemeruwa.gif" alt="ijeoma emeruwa gif" />
 
@@ -10,7 +10,7 @@ When I'm not geeking away on the web, you would find me thoroughly enjoying myse
 
 ---
 
-### Find me on the web :cyclone: 
+### Find me on the web: 
 
 * [Twitter]("https://twitter.com/ijeomaemeruwa")
 
