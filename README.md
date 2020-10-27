@@ -13,5 +13,3 @@ When I'm not geeking away on the web, you would find me thoroughly enjoying myse
 [Twitter](https://twitter.com/ijeomaemeruwa)
 
 [LinkedIn](https://linkedin/in/ijeoma-emeruwa)
-
-[Hashnode](https://helloijeoma.hashnode.dev/)
